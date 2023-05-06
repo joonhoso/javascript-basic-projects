@@ -126,6 +126,8 @@ p {
   h3,
   h4 {
     line-height: 1;
+    color: red;
+    font-weight: 400;
   }
 }
 /*  global classes */
